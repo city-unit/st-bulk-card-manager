@@ -1,30 +1,29 @@
 # SillyTavern Bulk Card Manager
 
-*Provide a brief description of how your extenion works, what problem it aims to solve.*
+A simple extension allowing for the bulk selection and editing of cards.
+
 
 ## Features
 
-*Describe some of the main selling points of your extension.*
+- Bulk Delete - Select multiple cards to be deleted at once.
 
 ## Installation and Usage
 
 ### Installation
 
-*In most cases, this should just be using ST's inbuilt extension installer.*
+Use the built in ST extension manager. 
 
 ### Usage
 
-*Explain how to use this extension.*
+Open the character sidebar and hit the edit icon which will allow you to check multiple characters to perform an action on.
 
 ## Prerequisites
 
-*Specify the version of ST necessary here.*
+Most recent `staging` branch of ST. 
 
 ## Support and Contributions
 
-*Where should someone ask for support? 
-How can they help add to this extension?*
+
 
 ## License
 
-*Be cool, use an open source license.*
