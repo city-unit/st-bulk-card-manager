@@ -15,6 +15,9 @@ Use the built in ST extension manager.
 ### Usage
 
 Open the character sidebar and hit the edit icon which will allow you to check multiple characters to perform an action on.
+![image](https://github.com/city-unit/st-bulk-card-manager/assets/140349364/b1fab621-6b43-44d1-a5e9-a664f30475e9)
+![image](https://github.com/city-unit/st-bulk-card-manager/assets/140349364/b6578b33-2a45-47c4-a803-e50481e10022)
+
 
 ## Prerequisites
 
